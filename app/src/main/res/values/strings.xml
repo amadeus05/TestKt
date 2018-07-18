@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestKt</string>
+    <string name="tab_text_1">Internet</string>
+    <string name="tab_text_2">User</string>
+
+    <string name="action_settings">Add new post</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
